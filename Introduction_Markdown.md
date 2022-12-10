@@ -1,6 +1,6 @@
 <center>
 
-![carbon footprint](https://raw.githubusercontent.com/info201a-au2022/project-team-8-section-aa/main/docs/smog-taj-mahal.jpg)
+![carbon footprint](https://raw.githubusercontent.com/info201a-au2022/a5-chuco7/main/CarbonFootprint.jpg)
 
 [*Image Citation*](https://www.ecomatcher.com/the-basics-of-a-carbon-footprint/)
 

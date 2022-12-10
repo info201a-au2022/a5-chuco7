@@ -9,8 +9,8 @@ source("app_server.R")
 source("app_ui.R")
 
 #Summary takeaway graphs
-source('../assignments/a5-chuco7/source/co2-scatter')
-source('../assignments/a5-chuco7/source/methane-scatter')
-source('../assignments/a5-chuco7/source/nitrous-ox-scatter')
+source("../a5-chuco7/source/co2-scatter.R")
+source("../a5-chuco7/source/methane-scatter.R")
+source("../a5-chuco7/source/nitrous-ox-scatter.R")
 
 shinyApp(ui = ui, server = server)
